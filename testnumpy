@@ -32,3 +32,4 @@ print(np.hstack((w,y)))
 print(np.concatenate((w,y),axis = 1))
 print(np.vstack((w,y)))
 print(np.concatenate((w,y),axis=0))
+#test
